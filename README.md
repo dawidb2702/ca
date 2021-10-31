@@ -2,7 +2,11 @@
 Open Certificate Authority for everyone.
 
 ## Valid certificates
-dawidb2702.com Root CA H1 (`ECC`, valid from `31.10.2021 00:00:00 GMT` to `31.10.2051 23:59:59 GMT`)
+### dawidb2702.com Root CA H1 
+Type: `ECC`
+Validity:
+  - not before: `Oct 31 00:00:00 2021 GMT`  
+  - not after: `Oct 30 23:59:59 2051 GMT`  
 
 ## Expired certificates
 none
